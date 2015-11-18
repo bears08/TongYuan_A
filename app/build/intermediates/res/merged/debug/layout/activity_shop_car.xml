@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/listview_shop_car"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center" >
+    </ListView>
+
+    <Button
+        android:id="@+id/btn_shop_car"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="去结算" />
+
+</LinearLayout><!-- From: file:/home/zhangxh/AndroidStudioProjects/TongYuan_A/app/src/main/res/layout/activity_shop_car.xml -->

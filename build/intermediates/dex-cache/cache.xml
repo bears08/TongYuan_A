@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zhangxh/devlop/adt-bundle-linux-x86_64/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/zhangxh/AndroidStudioProjects/TongYuan_A/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-0f495b3a6f7f5ca03fc99b9d4af1647ba94f7b36.jar" />
+    </item>
+    <item
+        jar="/home/zhangxh/AndroidStudioProjects/TongYuan_A/app/libs/afinal_0.5_bin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="89729e3bc7f76890363b10e1e0dc5e57964c7807">
+        <dex dex="/home/zhangxh/AndroidStudioProjects/TongYuan_A/app/build/intermediates/pre-dexed/debug/afinal_0.5_bin-3187334a90acfb716b2dedc510fd1ba8f2718e54.jar" />
+    </item>
+
+</items>
